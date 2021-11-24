@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "es2021",
+      "lib": ["es2021"],
+      "declaration": false,
+      "noImplicitAny": false,
+      "removeComments": true,
+      "inlineSourceMap": true,
+      "moduleResolution": "node"
+    },
+    "include": ["src/**/*.ts"]
+  }
