@@ -2,10 +2,6 @@
 
 [![NPM version][npm-image]][npm-url]
 [![Downloads][downloads-image]][npm-url]
-[![Build status][travis-image]][travis-url]
-[![Coverage status][coveralls-image]][coveralls-url]
-[![Dependency status][david-dm-image]][david-dm-url]
-[![Dev dependency status][david-dm-dev-image]][david-dm-dev-url]
 
 ## Install
 
